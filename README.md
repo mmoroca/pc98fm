@@ -6,6 +6,9 @@ The project is written in portable C17. The terminal interface uses ncurses on P
 
 By [@mmoroca](https://x.com/mmoroca) & arena.ai 2026.
 
+<img src="https://raw.githubusercontent.com/mmoroca/pc98fm/refs/heads/main/pc98fm%20-%20main%20window.png" alt="Main window of the pc98fm file manager, showing a dark retro terminal interface with two side-by-side directory panels, a top status bar, and cyan borders. The left panel lists project folders and files with green, yellow, and orange text for different item types, while the right panel shows file metadata and dates. The interface has a technical, utilitarian mood and includes text such as pc98fm, PATH, FREE, FILE, and various directory and file names." width="45%">   
+<img src="https://raw.githubusercontent.com/mmoroca/pc98fm/refs/heads/main/pc98fm%20-%20editor%20window.png" alt="Editor window of the pc98fm application, showing a dark terminal-style text editing view with a single file pane, menu text, and a cursor position indicator. The wider environment is a retro desktop interface with a cyan border and command-like text formatting, creating a focused, functional mood. Visible text includes editor controls, file names, and status information such as page labels and time." width="45%">   
+
 ## Features
 
 - Two-panel directory navigation.
@@ -140,6 +143,9 @@ Un pequeño gestor de archivos de dos paneles inspirado en el software de NEC PC
 El proyecto está escrito en C17 portable. La interfaz de terminal utiliza ncurses en sistemas POSIX y puede utilizar PDCurses en Windows.
 
 By [@mmoroca](https://x.com/mmoroca) & arena.ai 2026.
+
+<img src="https://raw.githubusercontent.com/mmoroca/pc98fm/refs/heads/main/pc98fm%20-%20main%20window.png" alt="Ventana principal del administrador de archivos pc98fm, que muestra una interfaz oscura de estilo terminal retro con dos paneles de directorios dispuestos lado a lado, una barra de estado superior y bordes de color cian. El panel izquierdo enumera carpetas y archivos del proyecto con texto en verde, amarillo y naranja según el tipo de elemento, mientras que el panel derecho muestra metadatos y fechas de los archivos. La interfaz posee un carácter técnico y utilitario, e incluye texto como «pc98fm», «PATH», «FREE», «FILE», así como diversos nombres de directorios y archivos." width="45%">   
+<img src="https://raw.githubusercontent.com/mmoroca/pc98fm/refs/heads/main/pc98fm%20-%20editor%20window.png" alt="Ventana del editor de la aplicación pc98fm, que muestra una vista de edición de texto oscura al estilo de una terminal, con un único panel de archivos, texto de menú e indicador de posición del cursor. El entorno general presenta una interfaz de escritorio retro con un borde cian y un formato de texto similar al de una línea de comandos, lo que genera una atmósfera funcional y propicia para la concentración. Entre el texto visible se incluyen controles del editor, nombres de archivo e información de estado, como etiquetas de página y la hora." width="45%">   
 
 ## Funcionalidades
 
